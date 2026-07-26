@@ -1,0 +1,25 @@
+{
+  "name": "basic-node-http-server",
+  "version": "1.0.0",
+  "description": "A modern note management application built entirely on Node.js core modules (http, fs, path, url) with a vanilla HTML/CSS/JS frontend. Demonstrates HTTP routing, asynchronous file-based persistence, and the Node.js event loop.",
+  "main": "src/server.js",
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "fs",
+    "vanilla-js",
+    "event-loop",
+    "notes-app",
+    "no-framework"
+  ],
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "check": "node --check src/server.js"
+  }
+}

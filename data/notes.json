@@ -1,0 +1,8 @@
+[
+  {
+    "id": "b3f1c2a4-1111-4a2b-9c3d-000000000001",
+    "title": "Welcome to Notes",
+    "content": "This is your first note. Create new notes using the form above, and delete them whenever you like. Everything is saved to a local JSON file using Node's built-in fs module.",
+    "createdAt": "2026-01-05T09:00:00.000Z"
+  }
+]
